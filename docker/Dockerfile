@@ -1,6 +1,6 @@
 FROM nginx
 
-COPY pass.png /usr/share/nginx/html
+COPY omkar.jpg /usr/share/nginx/html
 COPY index.html /usr/share/nginx/html/
 EXPOSE 80
 
